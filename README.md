@@ -20,3 +20,5 @@ create a new compass project
 compass create --using susy <project_name>
 
 ```
+[Unconf Slides](https://drive.google.com/file/d/0Bw-4JNH3jQVcelZzd1Q2ZlBMbVE/view?usp=sharing)
+
